@@ -2,7 +2,7 @@
   "name": "ms-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vnguyen70/ms-project",
+  "homepage": "https://vnguyen.github.io",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
